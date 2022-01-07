@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">KarleenFinalProject</string>
+
+    <string-array name="spinner">
+        <item>All</item>
+        <item>Correct</item>
+        <item>Wrong</item>
+        <item>Asc</item>
+        <item>Desc</item>
+    </string-array>
+</resources>
